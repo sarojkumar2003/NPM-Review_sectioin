@@ -14,7 +14,7 @@ A lightweight review management system that allows users to add, display, and de
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/review_section.git
+https://github.com/sarojkumar2003/Review_sectioin.git
 cd review_section
 ```
 ## Compatibility
