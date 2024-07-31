@@ -1,12 +1,31 @@
 {
-  "name": "count_nums",
-  "version": "1.0.0",
-  "description": "",
+  "name": "review_section",
+  "version": "0.0.1",
+  "description": "A lightweight review section that allows users to add, display, and delete reviews using localStorage. Perfect for integrating into small web project or as a starting point for more complex review functionalities.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node build.js"
   },
   "author": "Saroj Kumar Sharma",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarojkumar2003/npm_review_section.git"
+  },
+  "keywords": [
+    "review",
+    "manager",
+    "review_section",
+    "javascript",
+    "localStorage",
+    "frontend",
+    "web",
+    "development"
+  ],
+  "bugs": {
+    "url": "https://github.com/sarojkumar2003/npm_review_section/issues"
+  },
+  "homepage": "https://github.com/sarojkumar2003/npm_review_section#readme"
 }

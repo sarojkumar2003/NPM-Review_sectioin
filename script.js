@@ -8,3 +8,4 @@ function displayReviews(){const reviewsContainer=document.getElementById('review
                     <button onclick="deleteReview(${review.id})">Delete</button>
                 `;reviewsContainer.appendChild(reviewElement)})}
 displayReviews()
+
